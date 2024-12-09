@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files
+*.db
+
+# CSV and other raw/processed data files
+data/raw/
+data/processed/
+
+# Logs
+logs/
+*.log
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+
+# Tableau Files
+*.twb
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+my_token.txt
