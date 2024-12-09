@@ -3,12 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# SQLite database files
-*.db
-
 # Logs
-logs/
-*.log
+logs/*
+!logs/.gitkeep
 
 # Virtual environment
 env/
