@@ -104,9 +104,6 @@ This project requires a GitHub Personal Access Token to authenticate with the Gi
 
 ## Limitations
 
-- GitHub API Pagination:
-    The script currently fetches up to 100 repositories per run due to API pagination limits.
-
 - API Rate Limits:
     Ensure your GitHub Personal Access Token has sufficient quota to avoid rate-limiting issues.
 
