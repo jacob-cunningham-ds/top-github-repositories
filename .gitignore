@@ -6,10 +6,6 @@ __pycache__/
 # SQLite database files
 *.db
 
-# CSV and other raw/processed data files
-data/raw/
-data/processed/
-
 # Logs
 logs/
 *.log
