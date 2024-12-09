@@ -111,5 +111,5 @@ This project requires a GitHub Personal Access Token to authenticate with the Gi
     Ensure your GitHub Personal Access Token has sufficient quota to avoid rate-limiting issues.
 
 - Language Detection:
-    Some repositories may have `null` for the `language` field if the primary language is not detected.
+    Some repositories may have `Unknown` for the `language` field if the primary language is not detected.
 
