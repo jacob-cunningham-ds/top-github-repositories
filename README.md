@@ -104,6 +104,9 @@ This project requires a GitHub Personal Access Token to authenticate with the Gi
 
 ## Limitations
 
+- GitHub Request Limit:
+    GitHub imposes 1000 results or less per request. The 27.5K star count threshold was selected based on fine-tuning to get approximately (but not more than) 1000 results. This threshold value is static.
+
 - API Rate Limits:
     Ensure your GitHub Personal Access Token has sufficient quota to avoid rate-limiting issues.
 
