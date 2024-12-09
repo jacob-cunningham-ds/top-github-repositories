@@ -1,9 +1,17 @@
 # Top GitHub Repositories
 
-This project fetches GitHub repository data using the GitHub API and processes the data.  A threshold is applied to the star count (i.e., greater than 27.5K stars). This results in about 1000 records. [A Tableau dashboard is available](https://public.tableau.com/app/profile/jacob.cunningham3882/viz/PopularGitHubRepositories/TopGitHubRepositories?publish=yes). **The dashboard is optimized for viewing on tablet and desktop**. The dashboard provides various filters to explore the data and direct links to the repositories to get to the source.
-\
+This project fetches GitHub repository data using the GitHub API and processes the data.  A threshold is applied to the star count (i.e., greater than 27.5K stars). This results in about 1000 records. 
+
+## Dashboard
+
+[A Tableau dashboard is available](https://public.tableau.com/app/profile/jacob.cunningham3882/viz/PopularGitHubRepositories/TopGitHubRepositories?publish=yes). **The dashboard is optimized for viewing on tablet and desktop**.
+
 ![Dashboard Image](https://github.com/jacob-cunningham-ds/top-github-repositories/raw/main/images/dashboard.png)
 
+
+The dashboard provides various filters to explore the data and direct links to the repositories to get to the source.
+
+![Link to Repo Image](https://github.com/jacob-cunningham-ds/top-github-repositories/raw/main/images/link_to_github_repo.png)
 
 ## Folder Structure
 
